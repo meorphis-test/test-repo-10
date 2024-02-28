@@ -2,7 +2,7 @@
   "name": "meorphis-test-23",
   "version": "0.0.1-alpha.0",
   "description": "The official TypeScript library for the Meorphis Test 23 API",
-  "author": "Meorphis Test 23 <supportte@acme.com>",
+  "author": "Meorphis Test 23 <supportte@meorphis.com>",
   "types": "dist/index.d.ts",
   "main": "dist/index.js",
   "type": "commonjs",
