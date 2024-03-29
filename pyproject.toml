@@ -1,6 +1,6 @@
 [project]
 name = "TEMP_meorphis-test-30"
-version = "0.0.1-alpha.0"
+version = "0.0.1-alpha.1"
 description = "The official Python library for the meorphis-test-30 API"
 dynamic = ["readme"]
 license = "Apache-2.0"
@@ -39,8 +39,8 @@ classifiers = [
 
 
 [project.urls]
-Homepage = "https://github.com/meorphis-test/TEMP_meorphis-test-30-python"
-Repository = "https://github.com/meorphis-test/TEMP_meorphis-test-30-python"
+Homepage = "https://github.com/meorphis-test/test-repo-10"
+Repository = "https://github.com/meorphis-test/test-repo-10"
 
 
 
@@ -108,7 +108,7 @@ path = "README.md"
 [[tool.hatch.metadata.hooks.fancy-pypi-readme.substitutions]]
 # replace relative links with absolute links
 pattern = '\[(.+?)\]\(((?!https?://)\S+?)\)'
-replacement = '[\1](https://github.com/meorphis-test/tree/main/\g<2>)'
+replacement = '[\1](https://github.com/meorphis-test/test-repo-10/tree/stainless/\g<2>)'
 
 [tool.black]
 line-length = 120
