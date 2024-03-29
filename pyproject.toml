@@ -1,6 +1,6 @@
 [project]
 name = "TEMP_meorphis-test-30"
-version = "0.0.1-alpha.0"
+version = "0.0.1-alpha.1"
 description = "The official Python library for the meorphis-test-30 API"
 dynamic = ["readme"]
 license = "Apache-2.0"
